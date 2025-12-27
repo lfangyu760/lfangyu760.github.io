@@ -1,2 +1,3 @@
-# lfangyu76o.github.io
-Practice markdown Selling 2nd hand books
+# Silver Crown Hotel
+Welcome to our hotel page.
+## Practice markdown Selling 2nd hand books
